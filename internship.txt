@@ -1,0 +1,67 @@
+basics of internet
+about URL
+Html !
+Basics of html
+how the section are created in a website
+
+
+
+HTML:-
+<h1> tag
+view(phone,tab,destop)
+tables(menu updated tag)
+list
+text
+spacing
+inline tags
+block level tags
+form tags(event listners),value ,name ,id ,document	
+nav bars,header ,footer,main,(youtube-iframe,embeded)
+svg icons 
+
+CSS:-
+reset,
+boxmodel(padding,margin,border,content)
+flex,grid(2D)
+animation ,transition
+meadia,query(respnsive,)
+pseudo code(
+nth child
+units(em,rem,%)
+
+React and JS
+
+js(basics)
+syntax
+variable
+data types
+operators
+conditional statments
+loops
+basic functions
+array
+string 
+data &time
+ 
+
+how DOM works and BOM
+event listners
+class&objects
+numbers 
+random 
+built-in functions
+alert
+console
+
+
+functions
+scope
+closure
+hoisting
+map reduce filter
+call back
+promise.then.catch
+async and await
+
+
+
